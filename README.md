@@ -1,5 +1,5 @@
 
-# sistema-de-presenca-automatizado
+# sistema-de-presenca-automatizada
 
 ## Problema
 - Segurança do aluno: garantir que o aluno esta na escola
